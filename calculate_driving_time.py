@@ -1,5 +1,5 @@
 import datetime
-import simplejson
+import json as simplejson
 import urllib.request
 
 from user_definition import *
